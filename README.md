@@ -1,4 +1,7 @@
 # Code Refactor: 01 Homework 📚
+Editor: Honore Nelson
+Date: 12/17/21
+Link:
 
 ## Task Requirements (reference)
 "Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible."
@@ -44,3 +47,11 @@ My main goal of this project was to adhear to the requirements, provided by my c
     > Example: The title of the page was previously set as "Title", but this say nothing about the pages content or meaning. Therefore I changed it to match the company name, "Horiseon".
 
 ----
+## Edited Code and Notes
+! [screenshot of code with notes of changes] ()
+
+---
+## Final Horiseon Page
+! [complete Horiseon Page] ()
+
+---
