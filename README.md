@@ -52,6 +52,6 @@ My main goal of this project was to adhear to the requirements, provided by my c
 
 ---
 ## Final Horiseon Page
-! [complete Horiseon Page] ()
+! [complete Horiseon Page] (images/01-html-css-git-homework-demo.png)
 
 ---
