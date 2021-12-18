@@ -47,10 +47,12 @@ My main goal of this project was to adhear to the requirements, provided by my c
     > Example: The title of the page was previously set as "Title", but this say nothing about the pages content or meaning. Therefore I changed it to match the company name, "Horiseon".
 
 ----
+
 ## Edited Code and Notes
-! [screenshot of code with notes of changes] ()
+![screenshot of code with notes of changes](images/Code-Explination.png)
 
 ---
+
 ## Final Horiseon Page
 ![Complete Horiseon Page](images/01-html-css-git-homework-demo.png)
 
