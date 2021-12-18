@@ -1,7 +1,7 @@
 # Code Refactor: 01 Homework 📚
 * Editor: Honore Nelson
 * Date: 12/17/21
-* Link:
+* Link: https://matisses-goldfish.github.io/Code-Refactor/
 
 ## Task Requirements (reference)
 "Refactoring existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible."
@@ -52,6 +52,6 @@ My main goal of this project was to adhear to the requirements, provided by my c
 
 ---
 ## Final Horiseon Page
-! [complete Horiseon Page] (images/01-html-css-git-homework-demo.png)
+![Complete Horiseon Page](images/01-html-css-git-homework-demo.png)
 
 ---
